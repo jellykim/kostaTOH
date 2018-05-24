@@ -13,7 +13,6 @@ export class HeroDetailComponent implements OnInit {
 
   ngOnInit() {
     console.log('Detail ngOnInit()');
-  // console.log(this.hero);
-    //변경
+  // console.log(this.hero)
   }
 }
